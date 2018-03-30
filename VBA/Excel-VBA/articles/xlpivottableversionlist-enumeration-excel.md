@@ -22,6 +22,7 @@ Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with
 | **xlPivotTableVersion12**|3|Excel 2007|
 | **xlPivotTableVersion14**|4|Excel 2010|
 | **xlPivotTableVersion15**|5|Excel 2013|
+| **xlPivotTableVersion16**|6|Excel 2016|
 | **xlPivotTableVersionCurrent**|-1|Provided only for backward compatibility|
 
 ## Remarks
